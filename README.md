@@ -1,2 +1,2 @@
 # sub-one
-This is the first part of  my third task at start.ng during the pre-internship program.
+This is the very first part, of my third task at the Start.ng pre-internship program.
